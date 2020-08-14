@@ -1,7 +1,7 @@
 # VGDS
 Video-Grounded Dialogue Systems (VGDS)[Hung Le et al., ACL 2019]<br>
 
-Previous visual dialogue tasks focus on talking about a single static image between two agents in the conversation. However, we run into a sequence of images and audios in the real-world context like a video. Developing a dialogue system based on three different modalities: image, audio and text, is an interest topic.<br>
+Previous visual dialogue tasks focus on talking about a single static image between two agents in the conversation. However, we run into a sequence of images and audio and textual(description) data in the real-world context like a video. Developing a dialogue system based on three different modalities: image, audio and text, is of high scientific interest.<br>
 
 <b>Talking to Videos</b> is a multi-modal dialogue task over video. Given a video includes a series video frames with audios, two agents can hold a meaningful multi-round dialog on video content in natural language. We are working on this problem now.<br>
 <br>
